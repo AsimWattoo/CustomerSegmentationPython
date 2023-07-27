@@ -4,7 +4,7 @@ This is a custom code to classify which kind of drug to give to a patient based 
 
 ## Data Visualization
 
-![Alt text](Visulatization.png)
+![Alt text](Visualization.png)
 
 ## Training & Testing Results
 
